@@ -12,7 +12,7 @@
 
 ###
 
-<p align="left">✨ Creando Juegos<br>📚 Estoy aprendiendo: Godot<br>🎲  Dato Curioso:</p>
+<p align="left">✨ Creando Juegos<br>📚 Estoy aprendiendo: Godot <br> 🔏 Juegos privados</p>
 
 ###
 
